@@ -23,6 +23,7 @@ sudo -H pip3 install -U jetson-stats
 jtop
 ![jtop](https://github.com/user-attachments/assets/acaa29d4-d3bc-4175-b43a-85bcec49b067)
 
+``` bash
 git clone https://github.com/jetsonhacks/USB-Camera.git
 
 dli@dli-desktop:~$ cd USB-Camera
@@ -32,6 +33,8 @@ dli@dli-desktop:~/USB-Camra$ ls
   face-detect-usb.py  LICENSE  README.md  usb-camera-gst.py  usb-camera-simple.py
 
 dli@dli-desktop:~/USB-Camera$ python3 usb-camera-gst.py
+```
+
 ![webcam](https://github.com/user-attachments/assets/4d8e87ec-49e6-41a2-875e-69dcda1a17b0)
 
 
