@@ -12,6 +12,7 @@
 ![install](https://github.com/user-attachments/assets/88e8ee78-3a22-468b-94c0-a9b231d5f210)
 
 
+![jtop](https://github.com/user-attachments/assets/acaa29d4-d3bc-4175-b43a-85bcec49b067)
 
 
 
