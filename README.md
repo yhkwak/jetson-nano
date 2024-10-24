@@ -9,9 +9,14 @@
 ![Screenshot from 2024-10-24 10-40-39](https://github.com/user-attachments/assets/5024e93b-94f5-4cf8-ab1e-5d551d4a8658)
 
 
+dli@dli-desktop:~$ sudo apt-get update
+
+dli@dli-desktop:~$ sudo apt install python3-pip
+
+dli@dli-desktop:~$  sudo -H pip3 install -U jetson-stats
 ![install](https://github.com/user-attachments/assets/88e8ee78-3a22-468b-94c0-a9b231d5f210)
 
-
+jtop
 ![jtop](https://github.com/user-attachments/assets/acaa29d4-d3bc-4175-b43a-85bcec49b067)
 
 
