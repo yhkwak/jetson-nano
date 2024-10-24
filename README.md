@@ -8,3 +8,14 @@
 
 ![Screenshot from 2024-10-24 10-40-39](https://github.com/user-attachments/assets/5024e93b-94f5-4cf8-ab1e-5d551d4a8658)
 
+
+![install](https://github.com/user-attachments/assets/88e8ee78-3a22-468b-94c0-a9b231d5f210)
+
+
+
+
+
+
+
+
+
