@@ -31,6 +31,11 @@ dli@dli-desktop:~/USB-Camera$ python3 usb-camera-gst.py
 ![webcam](https://github.com/user-attachments/assets/4d8e87ec-49e6-41a2-875e-69dcda1a17b0)
 
 
+https://driz2le.tistory.com/253
+![korean](https://github.com/user-attachments/assets/4f8b6f2b-b1d1-441d-83d3-ef56ed387312)
+
+![us](https://github.com/user-attachments/assets/726f1f4f-a657-4bf0-bdbf-e2a87d848294)
+![kr](https://github.com/user-attachments/assets/dcb00712-3806-4a62-a54e-2216732d086e)
 
 
 
