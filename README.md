@@ -37,5 +37,6 @@ https://driz2le.tistory.com/253
 ![us](https://github.com/user-attachments/assets/726f1f4f-a657-4bf0-bdbf-e2a87d848294)
 ![kr](https://github.com/user-attachments/assets/dcb00712-3806-4a62-a54e-2216732d086e)
 
-
+Jetson에서 Colab 실행
+![colab](https://github.com/user-attachments/assets/e9d47cf4-a337-4f91-9bf4-580d9f19e783)
 
