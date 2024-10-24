@@ -40,3 +40,9 @@ https://driz2le.tistory.com/253
 Jetson에서 Colab 실행
 ![colab](https://github.com/user-attachments/assets/e9d47cf4-a337-4f91-9bf4-580d9f19e783)
 
+yolo v8
+![yolo v8](https://github.com/user-attachments/assets/0d751e69-dada-4459-8168-3ac6bde35193)
+
+
+
+
